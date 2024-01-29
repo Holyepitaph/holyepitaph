@@ -1,5 +1,10 @@
-### Hi there 👋
+Freelance Web Dev with an interest in Firebase and Next.js. Learned everything from FreeCodeCamp, Roadmap.sh and FullStackOpen. 
 
+Most of my projects work with front end until recently where I started to mix in Databases and the like. I hope to make a whole system of useful web apps on my VPS like eventually a chess puzzle app. That might just be for me though.
+
+If you wanna have a chat lets do it. I also like gaming and 3d Printing too if thats in your repertoire.
+
+Take a peak at some of my repositories and maybe drop by my forum at forum.bubanb.com and help me make an interesting community. 
 <!--
 **Holyepitaph/holyepitaph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
